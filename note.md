@@ -4,6 +4,8 @@ Repo
 Branch
 git branch -M master
 conflict
+Local
+Remote
 
 # Commands
 
